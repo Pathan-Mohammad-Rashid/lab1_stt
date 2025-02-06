@@ -1,7 +1,9 @@
 # Lab Assignment 1
 
 **Course:** CS202 Software Tools and Techniques for CSE
+
 **Lab Topic:** Introduction to Version Controlling, Git Workflows, and Actions
+
 **Date:** 09 th January 2025
 
 ## Objective
